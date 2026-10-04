@@ -69,6 +69,7 @@
     direnv
     git
     libreoffice
+    quarto
     vscode
     zotero
     obsidian
